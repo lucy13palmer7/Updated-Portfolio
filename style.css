@@ -1,0 +1,61 @@
+.aboutHome-bg {
+  background-image: url(assets/images/kevin-ku-w7ZyuGYNpRQ-unsplash.jpg);
+  background-size: cover;
+  background-position: center center;
+}
+.resume-bg {
+  background-image: url(assets/images/photo-1496902526517-c0f2cb8fdb6a.jpeg);
+  background-size: cover;
+  background-position: center center;
+}
+.projectPlanner-bg {
+  background-image: url(assets/images/kevin-ku-w7ZyuGYNpRQ-unsplash.jpg);
+  background-size: cover;
+  background-position: center center;
+}
+.projectWeather-bg {
+  background-image: url(assets/images/kevin-ku-w7ZyuGYNpRQ-unsplash.jpg);
+  background-size: cover;
+  background-position: center center;
+}
+.projectProject1-bg {
+  background-image: url(assets/images/kevin-ku-w7ZyuGYNpRQ-unsplash.jpg);
+  background-size: cover;
+  background-position: center center;
+}
+.projectContact-bg {
+  background-image: url(assets/images/kevin-ku-w7ZyuGYNpRQ-unsplash.jpg);
+  background-size: cover;
+  background-position: center center;
+}
+.img-thumbnail {
+  border-radius: 8px;
+  margin-bottom: 60px;
+  margin-left: 200px;
+  width: 400px;
+  height: 400px;
+}
+.container1 {
+  margin-top: 10px;
+}
+#summaryMe {
+  color: azure;
+  margin-right: 50px;
+  font-size: xx-large;
+}
+#footer {
+  height: 200px;
+  text-align: center;
+}
+.day-planner {
+  height: 400px;
+  width: 600px;
+}
+.weather-dash {
+  height: 400px;
+  width: 600px;
+}
+.project1 {
+  height: 400px;
+  width: 600px;
+}
